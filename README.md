@@ -14,7 +14,7 @@ If you'd like to contact someone to talk about contributing, then write somethin
 Some humans involved in this CNP:  
 Dr Levon Halabelian, University of Toronto (protein expression)  @Lev-Ha  
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
-Dr Santha Santhakumar, SGC (project management)    
+Dr Santha Santhakumar, SGC (project management) @Santha-SGC    
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
