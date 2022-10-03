@@ -14,6 +14,8 @@ If you'd like to contact someone to talk about contributing, then write somethin
 Some humans involved in this CNP:  
 Dr Levon Halabelian, University of Toronto (protein expression)  @Lev-Ha  
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
+Dr Eve Carter, UCL, postdoc (chem) @EveCarter  
+Dr Madison Edwards, Toronto, protein production  
 Dr Santha Santhakumar, SGC (project management) @Santha-SGC    
  
 
