@@ -16,7 +16,8 @@ Dr Levon Halabelian, University of Toronto (protein expression)  @Lev-Ha
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
 Dr Eve Carter, UCL, postdoc (chem) @EveCarter  
 Dr Madison Edwards, Toronto, protein production  
-Dr Santha Santhakumar, SGC (project management) @Santha-SGC    
+Dr Santha Santhakumar, SGC (project management) @Santha-SGC   
+Professor Karl Swann, Cardiff University, expertise in PLCz1 as a target and its role in fertility.
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
