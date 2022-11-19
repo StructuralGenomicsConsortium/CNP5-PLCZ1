@@ -23,6 +23,18 @@ Professor Karl Swann, Cardiff University, expertise in PLCz1 as a target and its
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant.  
 
+Other Contributors To Date:  
+Professors John Sondek and Qisheng Zhang, University of North Carolina Chapel Hill  
+Professor Matilda Katan, University College London  
+Professor Tim Richardson, USM-Purdue TREAT-AD Center  
+Charlotte Kopitz, Anke Mueller-Fahrnow, Nico Braeuer, Nuvisan  
+Daniel Goldberg, Bill and Melinda Gates Foundation  
+Prof Al Edwards, Structural Genomics Consortium  
+
+
+Potential Contributors
+[Cyclica](https://cyclicarx.com/press-releases/cyclica-receives-grant-to-advance-non-hormonal-contraceptives/)  
+
 You can see other contributors in the Issues (tab above).
 
 The licence for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
