@@ -21,7 +21,7 @@ Professor Karl Swann, Cardiff University, expertise in PLCz1 as a target and its
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
-The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant.  
+The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Anna Girtle (UCL) @AnnaGirtle  
 
 Other Contributors To Date:  
 Professors John Sondek and Qisheng Zhang, University of North Carolina Chapel Hill  
