@@ -5,31 +5,34 @@ You contribute synthetic chemistry and in return the SGC offers biology. Togethe
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1/wiki) or check out the living paper that is being written (here) (need link) (link is also (Need tinyurl link).
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1/wiki) or check out the living paper that is being written [here](https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1/wiki/The-Story-So-Far).
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
-If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To" Area](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki)
+If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To" Area](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki).
 
 Some humans involved in this CNP:  
-Dr Levon Halabelian, University of Toronto (protein expression)  @Lev-Ha  
-Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
-Dr Eve Carter, UCL, postdoc (chem) @EveCarter  
-Dr Madison Edwards, Toronto, protein production  
-Dr Santha Santhakumar, SGC (project management) @Santha-SGC   
-Professor Karl Swann, Cardiff University, expertise in PLCz1 as a target and its role in fertility.
- 
+Professor Matthew Todd, University College London, Head of Chemistry Networks at the SGC @mattodd  
+Dr Eve Carter, UCL, chemistry @EveCarter  
+Dr Madison Edwards, SGC Toronto, protein production  
+Dr Claudia Tredup, Goethe-University Frankfurt, project management  
+Prof Al Edwards, SGC Toronto, protein production  
+Prof Opher Gileadi, SGC Karolinska, protein production  
+Dr Levon Halabelian, SGC Toronto, protein production  @Lev-Ha    
+Professor Karl Swann, Cardiff University, expertise in PLCz1  
+Prof Matilda Katan, UCL, expertise in PLCs  
+Dr Riham Ayoubi, McGill, antibodies  
+Dr Vincent Francis, McGill, antibodies  
+Elnur Aliyev, Cardiff University, reproductive medicine
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
-The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Anna Girtle (UCL) @AnnaGirtle  
+[Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Anna Girtle (UCL) @AnnaGirtle  
 
 Other Contributors To Date:  
-Professors John Sondek and Qisheng Zhang, University of North Carolina Chapel Hill  
-Professor Matilda Katan, University College London  
-Professor Tim Richardson, USM-Purdue TREAT-AD Center  
-Charlotte Kopitz, Anke Mueller-Fahrnow, Nico Braeuer, Nuvisan  
+Nico Braeuer, Anna Thrun, Karen Vester, Charlotte Kopitz, Anke Mueller-Fahrnow, Nuvisan  
+Professors John Sondek and Qisheng Zhang, University of North Carolina Chapel Hill   
+Professors Tim Richardson and Brent Clayton, USM-Purdue TREAT-AD Center  
 Daniel Goldberg, Bill and Melinda Gates Foundation  
-Prof Al Edwards, Structural Genomics Consortium  
 
 
 Potential Contributors
